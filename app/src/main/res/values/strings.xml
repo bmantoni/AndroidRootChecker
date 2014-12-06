@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RootChecker</string>
+    <string name="label_root_checks">Root Checks (any unchecked means root detected)</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
